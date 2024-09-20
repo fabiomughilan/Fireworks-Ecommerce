@@ -3,4 +3,4 @@ Develped using React.js
 
 
 Admin Demo : https://fireworkadmin.netlify.app
-Client Demo: 
+\n Client Demo: https://fireworksclient.netlify.app/
